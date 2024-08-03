@@ -1,7 +1,22 @@
-title: High Schooler Blog
+title: THE THIRD DIMENSION
 email: your-email@example.com
 description: "A high schooler's blog for book reviews, articles, and poems."
 baseurl: ""
 url: "https://your-username.github.io/high-schooler-blog"
-theme: jekyll-theme-midnight
-github_username: your-username
+author:
+  name: "Your Name"
+  avatar: "/assets/img/your-avatar.jpg"
+  bio: "High school student blogging about books, writing articles, and sharing poems."
+  location: "Your Location"
+  email: "your-email@example.com"
+  twitter: "your-twitter-handle"
+  facebook: "your-facebook-handle"
+  github: "your-github-username"
+  linkedin: "your-linkedin-handle"
+  instagram: "your-instagram-handle"
+  website: "https://your-website.com"
+theme_settings:
+  subscribe_modal: true
+  related_posts_section: true
+  share_buttons: true
+
